@@ -17033,7 +17033,7 @@
         ce = n(7756),
         de = n(9657),
         fe =
-          n.p + "./build/static/media/profile_photo.d96415d6ec47ad22c555.jpg",
+          n.p + "/static/media/profile_photo.d96415d6ec47ad22c555.jpg",
         pe = n(2093),
         me = n(5758),
         ve = n(6310),
