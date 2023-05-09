@@ -21006,7 +21006,7 @@
                     "Designed and Developed by",
                     " ",
                     (0, p.jsx)("a", {
-                      href: "https://stevgonzalezb.github.io/resume/",
+                      href: "/",
                       rel: "noreferrer",
                       target: "_blank",
                       children: "Dhiren Patel.",
